@@ -13,6 +13,10 @@ zero-shot cross-lingual transfer, few-shot adaptation, and LoRA hyperparameter a
 
 ---
 
+> Fine-tuning mT5-base with LoRA (0.36% trainable parameters) for multilingual 
+> toxic language removal — achieving meaningful zero-shot cross-lingual transfer 
+> to Spanish and Hindi from English-only training data.
+
 ## File Structure
 
 ```
