@@ -12,6 +12,7 @@ is evaluated across five experiments (A–E) covering baselines, English LoRA tr
 zero-shot cross-lingual transfer, few-shot adaptation, and LoRA hyperparameter ablation.
 
 ---
+## Detail
 
 > Fine-tuning mT5-base with LoRA (0.36% trainable parameters) for multilingual 
 > toxic language removal — achieving meaningful zero-shot cross-lingual transfer 
